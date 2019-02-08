@@ -5,3 +5,4 @@
 - test : test
 - issue2: test
 - issue1: branch
+- update : issue1
