@@ -6,3 +6,4 @@
 - issue2: test
 - issue1: branch
 - update : issue1
+- pull request test
